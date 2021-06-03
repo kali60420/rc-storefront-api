@@ -1,6 +1,6 @@
 {
-    "name": "rc-storefront-api",
-    "version": "0.0.1",
+    "name": "@kali604/rc-storefront-api",
+    "version": "1.0.1",
     "sideEffects": false,
     "main": "lib/index.cjs.js",
     "module": "lib/index.es.js",
@@ -11,7 +11,7 @@
         "test": "jest --rootDir ."
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://registry.npmjs.org/"
     },
     "repository": {
         "type": "git",
